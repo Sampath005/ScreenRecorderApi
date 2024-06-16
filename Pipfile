@@ -1,0 +1,38 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+flask = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+flask-script = "*"
+marshmallow = "*"
+flask-bcrypt = "*"
+pyjwt = "*"
+pytest = "*"
+coverage = "*"
+pytest-cov = "*"
+python-coveralls = "*"
+gunicorn = "*"
+pymysql = "*"
+psycopg2-binary = "*"
+flask-cors="*"
+Flask-Caching = "*"
+boto3 = "*"
+cryptography = "*"
+razorpay = "*"
+beautifulsoup4 = "*"
+apscheduler = "*"
+pillow = "*"
+python-docx = "*"
+pynput = "*"
+opencv-python = "*"
+numpy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
